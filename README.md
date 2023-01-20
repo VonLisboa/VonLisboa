@@ -13,7 +13,7 @@
 </p>
 <details>
 <summary><b>☄️ About Me </b></summary><br/>
-Ahh.. My brain said smart
+<p align="left">Ahh.. My brain said smart</p>
 <img src="https://github.com/VonLisboa/VonLisboa/raw/main/myBrain.gif">
 
 </details>
