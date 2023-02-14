@@ -72,7 +72,6 @@
 <h3 align="left">Contact Me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/glaucioalmeida9/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-shiny-icon-logo-5.png" alt="glaucio linkedin" height="54" width="54" /></a>
-<a href="https://instagram.com/glaucioalmeida9" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" alt="glaucio instagram" height="54" width="54" /></a>
 <a href="mailto:glaucioalmeida@id.uff.br" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="email" height="50" width="60" /></a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vonLisboa&show_icons=true&layout=compact&theme=nightowl" alt="vonLisboa" /></p>
