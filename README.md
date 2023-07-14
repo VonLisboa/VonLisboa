@@ -1,87 +1,23 @@
-<h2 align="center">Hi 🥰 I'm <br>Gláucio</h1>
-<h4 align="center">He/Him - BLM Resources</h3>
+# 💫 About Me:
+### Ahh... My brain said smart<br>
+<img src="https://github.com/VonLisboa/VonLisboa/raw/main/myBrain.gif" width="300">
 
-##
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/glaucioalmeida9) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:glaucioalmeida@id.uff.br) 
 
-<p align="center">
-  <a href="https://github.com/vonLisboa?tab=stars">
-    <img src="https://img.shields.io/github/stars/vonLisboa">
-  </a>
-  <a href="https://github.com/vonLisboa?tab=followers">
-    <img src="https://img.shields.io/github/followers/vonLisboa">
-  </a>
-</p>
-<details>
-<summary><b>☄️ About Me </b></summary><br/>
-<p align="left">Ahh.. My brain said smart</p>
-<img src="https://github.com/VonLisboa/VonLisboa/raw/main/myBrain.gif">
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VonLisboa&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VonLisboa&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VonLisboa&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</details>
-<details>
-  <summary><b>Languages I Know 💻</b></summary><br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=VonLisboa&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
-| Language   | Degree   |
-| ---        | ---      |
-| Python     | SSS      |
-| Javascript | SSS      |
-| Typescript | SS       |
-| Golang     | SSS      |
-| VueJS      | SSS      |
-| ReactJS    | SS       |
-| Android    | S        |
-| Java S.B.  | SS       |
-| PHP        | SS       |
-| HTML       | SSS      |
-| CSS        | SS       |
-| SCSS       | A        |
-| Rust       | B        |
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-##
-#### Degree Table 
-
-| Degree | Point |
-| ---    | ---   |
-| SSS    | +95   |
-| SS     | +90   |
-| S      | +85   |
-| A+     | +80   |
-| A      | +70   |
-| B+     | +60   |
-| B      | +50   |
-| C      | +40   |
-| D      | +30   |
-| F      | <30   |
-</details>
-
-<details>
-  <summary><b>Languages ​​I'm Learning 🙇🏻</b></summary><br/>
-
-| Language   | Status   |
-| ---        | ---      |
-| Typescript | ✅       |
-| Golang     | ✅       |
-| Python     | ✅       |
-| Rust       | ♻        |
-| C++        | ♻        |
-| C          | ♻        |
-</details>
-
-##
-
-<h3 align="left">Contact Me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/glaucioalmeida9/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-shiny-icon-logo-5.png" alt="glaucio linkedin" height="54" width="54" /></a>
-<a href="mailto:glaucioalmeida@id.uff.br" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="email" height="50" width="60" /></a>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vonLisboa&show_icons=true&layout=compact&theme=nightowl" alt="vonLisboa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vonLisboa&theme=nightowl" alt="vonLisboa" /></p>
-</details>
-
-##
-
-![Metrics](https://metrics.lecoq.io/vonLisboa?template=classic&isocalendar=1&languages=1&lines=1&stars=1&habits=1&people=1&achievements=1&activity=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&people=false&people.limit=50&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&gists=false&config.timezone=America%2FSao_Paulo)
-
-
-##
+---
+[![](https://visitcount.itsvg.in/api?id=VonLisboa&icon=7&color=12)](https://visitcount.itsvg.in)
