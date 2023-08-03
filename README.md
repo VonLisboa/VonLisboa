@@ -2,6 +2,9 @@
 ### Ahh... My brain said smart<br>
 <img src="https://github.com/VonLisboa/VonLisboa/raw/main/myBrain.gif" width="300">
 
+##### Don't ask me to do tests look at my github.. laziness
+##### No corporate blablabla in the end what pays the bills is money and yes I like what I do
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/glaucioalmeida9) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:glaucioalmeida@id.uff.br) 
